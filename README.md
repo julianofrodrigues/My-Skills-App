@@ -5,7 +5,7 @@
 
 ## Application images below 😬
 
-<p>
+<p align="center">
 <img src="https://i.imgur.com/mAnXMqo.png" />
 <img src="https://i.imgur.com/JH3gphX.png" />
 </P>
