@@ -6,8 +6,8 @@
 ## Application images below 😬
 
 <p>
-<img src="https://i.imgur.com/mAnXMqo.png" style="width: 400px; height: 650px"/>
-<img src="https://i.imgur.com/JH3gphX.png" style="width: 400px; height: 650px"/>
+<img src="https://i.imgur.com/mAnXMqo.png" />
+<img src="https://i.imgur.com/JH3gphX.png" />
 </P>
 
 ## 📁 Project Access
